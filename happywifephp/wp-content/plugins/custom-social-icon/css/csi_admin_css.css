@@ -1,0 +1,8 @@
+img.add,img.remove{
+display:inline-block;
+cursor: pointer;
+}
+span.txt_show_des{
+font-weight:bold
+}
+img.CSI_img_path{max-width:32px;height:auto}

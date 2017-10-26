@@ -1,0 +1,771 @@
+## DEV Review Todo
+- [ ] ** Issue #335: **
+    - [ ] check/fix
+        - [x] Need to better understand Paramless, talk to fikri
+        - [x] Not sure about timeout as best option in setting logo width
+        - [x] apply js beaut fixes in stash
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #615: `335-add-menu-logo-customizer-options`
+        - [ ] check
+        - [ ] delete old branch
+
+- [ ] ** Issue #568: **
+    - [x] check/fix
+    - [x] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #602: `568-remove-rating-checkbox`
+        - [ ] check
+        - [ ] delete old branch
+
+- [ ] ** Issue #565: **
+    - [x] check/fix
+    - [x] merge
+    - [ ] push - need to push branch
+    - [ ] check and adjust labels
+    - [ ] PR #579: `565-fix-column-break-on-default-setting`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #569: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #581: `fix-no-sidebar-widget-display`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #485: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #533: `fix-functions-prefix`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #428: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #623: `428-remove-extract`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #624: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #625: `624-fix-undefined-property-review-metabox`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #632: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #633: `632-add-native-title-tag-support`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #616: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #626: `616-add-footer-column-customizer-mechanism`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #630: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #631: `630-fix-custom-area-widget-ui-differences`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #640: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #657: `640-main-menu-search-and-mobile-styles`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #646: **
+    - [ ] check/fix
+    - [ ] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #654: `646-fix-various-footer-options-issue`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #609: **
+    - [ ] check/fix
+    - [ ] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #610: `609-accent-colors`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #565: **
+    - [ ] check/fix
+    - [ ] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #:
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #409: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #483: `409-add-advanced-design-settings-for-extra-modules`
+        - [ ] check
+        - [ ] delete old branch
+    - [ ] PR submodule-builder#394: `add-color-alpha-support-for-text-color-v2`!!!!!!!!!!
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #508: **
+    - [ ] check/fix
+    - [ ] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #544: `508-extra-modules-add-css-settings-v2`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #367: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #433: `367-fix-post-slider-carousel-on-resize-v5`
+        - [ ] check
+        - [ ] delete old branch
+    - [ ] PR submodule-builder#393: `fix-post-slider-carousel-on-resize-v6`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #669: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #687: `669-fix-improper-video-format-content-on-default-loop-v2`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #668: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #682: `668-fix-unwanted-hide-title-meta-featured-image-settings-v2`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #666: **
+    - [ ] check/fix
+    - [ ] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #667: `666-clasify-extra-module-options-v2`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #659: **
+    - [x] check/fix
+    - [x] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #683: `659-hide-toggle-builder-on-layout-editor-v2`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #653: **
+    - [ ] check/fix
+		- [ ] Left note about extra laoding otis own local verion of Open Sans font files
+    - [ ] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #684: `653-fix-customizer-italic-issue-v2`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #648: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #685: `648-fix-various-button-customizer-issues-v2`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #703: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #704: `703-fix-epanel-reset-doesnt-work`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #707: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #708: `707-share-buttons-throws-error-messages`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #700: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #709: `700-left-sidebar-layout-doesnt-work`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #695: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #711: `695-fix-recent-video-widget-accent-color`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #694: **
+    - [x] check/fix
+    - [x] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #710: `694-review-widget-use-category-color`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #690: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #706: `690-fix-featured-posts-slider-issue`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #641: **
+    - [ ] check/fix
+    - [ ] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #686: `641-add-customizer-transition-to-header-search-only-state-v2`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #298: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #385: `298-add-auto-reverse-dropdown-direction`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #751: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #752: `751-fix-video-widget-duplicate-query`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #746: **
+    - [ ] check/fix
+    - [ ] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #748: `702-page-template-error`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #738: **
+    - [ ] check/fix
+    - [ ] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #756: `738-two-create-new-widget-area`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #486: **
+    - [ ] check/fix
+    - [ ] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #494: `fix-core-files`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #718: **
+    - [ ] check/fix
+    - [ ] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #773: `move-layouts-admin-link`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #603: **
+    - [ ] check/fix
+    - [ ] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #772: `fix-blog-page-template-category-checkbox`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #719: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #763: `719-fix-woocommerce-sidebar-options`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #726: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #790: `726-fix-author-page-template-column`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #764: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #765: `764-fix-disappearing-timeline-nav-and-sticky-timeline-item`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #784: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #797: `784-fix-category-page-title`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #775: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #796: `fix-post-slider-module`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #753: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #794: `fix-blog-masonry-module-salvattore-style-on-pagination`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #744: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #792: `744-fix-right-side-footer-widget-appearance`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #699: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #793: `fix-theme-version-multiple-instances`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #604: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #800: `604-fix-page-templates-options-init`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #693: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #795: `fix-ajax-protocol`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #749: **
+    - [x] check/fix
+		- [x] I updated, and pushed back to design review
+    - [ ] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [x] PR elegantthemes/submodule-builder#411: `749-add-category-option-support`
+        - [x] check
+        - [x] delete old branch
+    - [ ] PR #811: `749-add-tabbed-labels`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #750: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #807: `750-fix-tabbed-category`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #265: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #803: `265-fix-accent-color-not-affecting-some-elements`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #622: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #816: `622-fix-customizer-preview-loading-lag`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #821: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #830: `fix-ads-widget-typo`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #815: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #828: `815-fix-column-text-on-masonry`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #809: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR submodule-builder#413: `809-fix-extra-library-layouts`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #791: **
+    - [x] check/fix
+		-  [ ] Made fixes, added new submodule-builder PR
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #835: `791-fix-glitchy-transition-on-posts-carousel`
+        - [ ] check
+        - [ ] delete old branch
+    - [ ] PR submodule-builder#414: `791-added-trigger-after-move`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #713: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #806: `fix-duplicate-read-more-button`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #712: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #829: `712-fix-featured-posts-slider-mobile-breakdown`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #534: **
+    - [ ] check/fix
+		- [ ] posted feedback on submodule-builder PR
+    - [ ] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #740: `534-fix-divi-builder-bug-on-extra-v2`
+        - [ ] check
+        - [ ] delete old branch
+    - [x] PR elegantthemes/submodule-builder#401: `534-fix-divi-builder-bug-on-extra-v2`
+        - [x] check
+        - [ ] delete old branch
+- [ ] ** Issue #715: **
+    - [ ] check/fix
+		- [x] Needs #534/#740 to be ready and merged first
+    - [ ] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #766: `715-add-extra-modules-default-value`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #810: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #843: `810-add-grunt-zip-task`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #333: **
+    - [x] check/fix
+		- [x] Need to move reposnsive to where it belongs
+		- [x] Need to maybe move the new scripts stuff elswheree... lower in file?, within existing enclosure? External file (i.e. scripts/ext)?
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #665: `add-fixed-nav`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #535: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #590: `fix-theme-check`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #832: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #833: `fix-post-meta-comment-count`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #826: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #838: `826-fix-customizer-defaults`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #825: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #837: `825-fix-blurb-customizer`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #823: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #831: `fix-recent-comment-widget-rating-issue`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #840: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #846: `840-portfolio-styles`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #818: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #851: `818-fix-extra-category-builder-live-preview`
+        - [x] check
+        - [ ] delete old branch
+    - [ ] PR submodule-builder#415: `818-made-builder-params-filterable`
+        - [x] check
+        - [ ] delete old branch
+- [ ] ** Issue #852: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #858: `852-fix-carousel-ux-on-page-load`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #847: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #855: `rename-woocommerce-sidebar-options`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #893: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #894: `893-fix-project-gallery-copy`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #871: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #891: `871-add-icon-picker-for-tabbed-posts-and-posts-module`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #827: **
+    - [ ] check/fix
+		- [ ] this is not implemented properly, there should not be extra specific code in the builder, a hook at most should be used
+    - [ ] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR submodule-builder#418: `827-library-extra-layouts-support`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #525: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #804: `525-fix-facebook-count`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #909: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #915: `modify-posts-and-tabbed-posts-modules-labels-and-descriptions`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #905: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #914: `905-fix-pingbacks-error`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #903: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #916: `modify-ad-module-options-order`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #902: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #911: `modify-ad-item-option-label`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #892: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #918: `892-update-viewports`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #888: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #920: `888-fix-page-templates-activation`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #883: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #910: `move-template-option-meta-box-first`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #868: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #907: `hide-featured-post-slider-if-empty`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #864: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #921: `864-fix-centered-header-fixed-nav`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #863: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #919: `863-update-customizer-color-controls`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #900: **
+    - [ ] check/fix
+    - [ ] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #913: `900-fix-reading-selection`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #899: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #931: `899-fix-video-on-page-load-ux`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #884: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #924: `884-improved-posts-carousel-on-load-ux`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #878: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [ ] PR #928: `modify-template-names`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #789: **
+    - [x] check/fix
+    - [x] merge
+    - [x] push
+    - [ ] check and adjust labels
+    - [x] PR submodule-builder#416: `789-fix-builder-bug-extra-specialty-section`
+        - [ ] check
+        - [ ] delete old branch
+    - [x] PR #857: `789-fix-builder-bug-extra-specialty-section`
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #: **
+    - [ ] check/fix
+    - [ ] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #: ``
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #: **
+    - [ ] check/fix
+    - [ ] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #: ``
+        - [ ] check
+        - [ ] delete old branch
+- [ ] ** Issue #: **
+    - [ ] check/fix
+    - [ ] merge
+    - [ ] push
+    - [ ] check and adjust labels
+    - [ ] PR #: ``
+        - [ ] check
+        - [ ] delete old branch

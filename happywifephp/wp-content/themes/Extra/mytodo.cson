@@ -1,0 +1,160 @@
+Issue #371:
+    # check/fix
+    # merge
+    # push
+    check_and_adjust_labels
+    PR #459:
+        check
+        delete_old_branch
+Issue #580:
+    # check/fix
+    # merge
+    # push
+    check_and_adjust_labels
+    PR #588:
+        check
+        delete_old_branch
+Issue #42:
+    # check/fix
+    # merge
+    # push
+    check_and_adjust_labels
+    PR #572:
+        check
+        delete_old_branch
+Issue #414:
+    # check/fix
+    # merge
+    # push
+    check_and_adjust_labels
+    PR #567:
+        check
+        delete_old_branch
+Issue #38:
+    # check/fix
+    # merge
+    # push
+    check_and_adjust_labels
+    PR #573:
+        check
+        delete_old_branch
+Issue #427:
+    # check/fix
+    # merge
+    # push
+    check_and_adjust_labels
+    PR #586:
+        check
+        delete_old_branch
+Issue #527:
+    # check/fix
+    # merge
+    # push
+    check_and_adjust_labels
+    PR #583: fix-page-templates-loop
+        check
+        delete_old_branch
+Issue #582:
+    # check/fix
+    # merge
+    # push
+    check_and_adjust_labels
+    PR #584: fix-blog-page-template-pagination
+        check
+        delete_old_branch
+Issue #554:
+    # check/fix
+    # merge
+    # push
+    check_and_adjust_labels
+    PR #574: fix-localization-issues
+        check
+        delete_old_branch
+Issue #560:
+    # check/fix
+    # merge
+    # push
+    check_and_adjust_labels
+    PR #570: 560-remove-text-post-format
+        check
+        delete_old_branch
+Issue #566:
+    # check/fix
+    # merge
+    # push
+    check_and_adjust_labels
+    PR #575: fix-portfolio-page-template
+        check
+        delete_old_branch
+Issue #336:
+    check/fix
+    merge
+    push
+    check_and_adjust_labels
+    PR #563: 336-add-secondary-nav-fullwidth-mechanism
+        check
+        delete_old_branch
+Issue #335:
+    check/fix
+    merge
+    push
+    check_and_adjust_labels
+    PR #615:
+        check
+        delete_old_branch
+Issue #630:
+    check/fix
+    merge
+    push
+    check_and_adjust_labels
+    PR #631: `630-fix-custom-area-widget-ui-differences`
+        check
+        delete_old_branch
+Issue #:
+    check/fix
+    merge
+    push
+    check_and_adjust_labels
+    PR #:
+        check
+        delete_old_branch
+Issue #:
+    check/fix
+    merge
+    push
+    check_and_adjust_labels
+    PR #:
+        check
+        delete_old_branch
+Issue #:
+    check/fix
+    merge
+    push
+    check_and_adjust_labels
+    PR #:
+        check
+        delete_old_branch
+Issue #:
+    check/fix
+    merge
+    push
+    check_and_adjust_labels
+    PR #:
+        check
+        delete_old_branch
+Issue #:
+    check/fix
+    merge
+    push
+    check_and_adjust_labels
+    PR #:
+        check
+        delete_old_branch
+Issue #:
+    check/fix
+    merge
+    push
+    check_and_adjust_labels
+    PR #:
+        check
+        delete_old_branch

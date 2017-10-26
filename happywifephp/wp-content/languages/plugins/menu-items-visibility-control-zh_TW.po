@@ -1,0 +1,113 @@
+# Translation of Development (trunk) in Chinese (Taiwan)
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-03-27 18:33:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/1.1.0-alpha\n"
+"Project-Id-Version: Development (trunk)\n"
+
+#. Plugin Name of the plugin/theme
+msgid "Menu Items Visibility Control"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Control the display logic of individual menu items."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Hassan Derakhshandeh"
+msgstr ""
+
+#: init.php:59
+msgid "Visibility"
+msgstr "可見度"
+
+#: includes/walker-nav-menu-edit.php:193
+msgid "Cancel"
+msgstr "取消"
+
+#: includes/walker-nav-menu-edit.php:192
+msgid "Remove"
+msgstr "刪除"
+
+#: includes/walker-nav-menu-edit.php:172
+msgid "To the top"
+msgstr "至頂端"
+
+#: includes/walker-nav-menu-edit.php:179
+msgid "Original: %s"
+msgstr "原始：%s"
+
+#: includes/walker-nav-menu-edit.php:168
+msgid "Up one"
+msgstr "上一位"
+
+#: includes/walker-nav-menu-edit.php:169
+msgid "Down one"
+msgstr "下一位"
+
+#: includes/walker-nav-menu-edit.php:167
+msgid "Move"
+msgstr "移動"
+
+#: includes/walker-nav-menu-edit.php:159
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr "該描述將出現在選單中，若現在的佈景主題有支援它。"
+
+#: includes/walker-nav-menu-edit.php:151
+msgid "Link Relationship (XFN)"
+msgstr "鏈結關係（XFN）"
+
+#: includes/walker-nav-menu-edit.php:157
+msgid "Description"
+msgstr "選項"
+
+#: includes/walker-nav-menu-edit.php:145
+msgid "CSS Classes (optional)"
+msgstr "CSS 類別（可不填）"
+
+#: includes/walker-nav-menu-edit.php:133
+msgid "Title Attribute"
+msgstr "標籤名稱。"
+
+#: includes/walker-nav-menu-edit.php:140
+msgid "Open link in a new tab"
+msgstr "在新分頁開啟鏈結"
+
+#: includes/walker-nav-menu-edit.php:127
+msgid "Navigation Label"
+msgstr "導覽命名"
+
+#: includes/walker-nav-menu-edit.php:120
+msgid "URL"
+msgstr "URL"
+
+#: includes/walker-nav-menu-edit.php:107
+msgid "Move down"
+msgstr "下移"
+
+#: includes/walker-nav-menu-edit.php:109 includes/walker-nav-menu-edit.php:111
+msgid "Edit Menu Item"
+msgstr "編輯選單項目"
+
+#: includes/walker-nav-menu-edit.php:79
+msgid "sub item"
+msgstr "子項目"
+
+#: includes/walker-nav-menu-edit.php:94
+msgid "Move up"
+msgstr "上移"
+
+#. translators: %s: title of menu item in draft status
+#: includes/walker-nav-menu-edit.php:66
+msgid "%s (Pending)"
+msgstr "%s（審查中）"
+
+#. translators: %s: title of menu item which is invalid
+#: includes/walker-nav-menu-edit.php:62
+msgid "%s (Invalid)"
+msgstr "%s（不正確）"
